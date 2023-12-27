@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rusteau
 - 👀 I’m interested in Coding in General
 - 🌱 I’m currently learning Delphi & Object Pascal , HTML/CSS/Javascript, Sql-Postgres
-- 💞️ I’m looking to collaborate on FrontEnd Projects
+- 💞️ 
 - 📫 How to reach me rrusteau@gmail.com
 <!---
 Rusteau/Rusteau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

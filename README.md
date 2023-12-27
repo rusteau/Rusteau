@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rusteau
 - 👀 I’m interested in Coding in General
-- 🌱 I’m currently learning c & c++ , HTML/CSS/Javascript
+- 🌱 I’m currently learning Delphi & Object Pascal , HTML/CSS/Javascript, Sql-Postgres
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me rrusteau@gmail.com
 <!---
